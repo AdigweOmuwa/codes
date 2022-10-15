@@ -1,0 +1,21 @@
+<form action="reg_form.php" method="POST"> Name:
+
+        <input type="text" name="name1"> <br> Email:
+
+        <input type="text" name="email1"> <br> Date of Birth:
+
+        <input type="date" name="date1"> <br> Gender (male or female:
+
+        <input type="text" name=gender1">
+
+        <br> Country:
+
+        <input type="text" name="country1"> <br>
+
+        <button  type="submit"> Submit: </button>
+
+    </form>
+
+    
+    
+    
